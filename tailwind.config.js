@@ -5,6 +5,8 @@ module.exports = {
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
     './src/components/Navbar/**/*.{js,ts,jsx,tsx,mdx}',
+    './src/components/Footer/**/*.{js,ts,jsx,tsx,mdx}',
+
 
   ],
   theme: {

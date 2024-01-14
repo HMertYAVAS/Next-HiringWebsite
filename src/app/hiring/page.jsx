@@ -1,6 +1,8 @@
+import error from "../error"
 
 export default function HiringPage() {
-    return (
+// throw new error('asd')
+ return (
       <main className="flex justify-center">
         <div>HiringPage</div>
       </main>
