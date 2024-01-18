@@ -20,7 +20,7 @@ const links = [
         path: "/jobs"
     },
     {
-        title: "About",
+        title: "About Us",
         path: "/about"
     },
 ]
