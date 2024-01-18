@@ -6,7 +6,7 @@ export default function Home() {
       <article className="relative">
         <img src="https://images.pexels.com/photos/4342126/pexels-photo-4342126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="w-full" style={{ objectFit: "cover" }} />
 
-        <h3 class="absolute md:text-5xl sm:text-lg text-blue-700 top-1/4 left-1/2 -translate-x-1/2">Ascend The Career Ladder With Our Opportunities</h3>
+        <h3 class="absolute lg:text-10xl md:text-5xl sm:text-lg text-blue-700 top-1/4 left-1/2 -translate-x-1/2">Ascend The Career Ladder With Our Opportunities</h3>
         <h3 class="absolute md:text-2xl sm:text-sm text-zinc-100 bottom-1/4 left-1/2 -translate-x-1/2">Discover compelling career paths and advance in your professional journey by perusing the diverse job opportunities available on our specialized employment platform.</h3>
       </article>
       <section className="grid  h-48 justify-center mt-10">
